@@ -108,8 +108,8 @@ function equalToZeroInArray(arr):number {
 console.log("equalToZero: " + equalToZeroInArray(arr));
 
 
-////////////////////////////////
-Q2
+////////////////Q2////////////////
+
 
 
 let num1: number[] = new Array<number>(3)
